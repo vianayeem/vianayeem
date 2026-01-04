@@ -52,8 +52,6 @@
 🔹 Deployed predictions using a **Flask REST API** integrated with **Node.js & React**  
 🔹 Designed an **interactive Power BI dashboard** for churn drivers & revenue impact  
 
-**🛠 Tech Stack**  
-`Python` `Pandas` `NumPy` `Scikit-learn` `Flask` `Node.js` `React` `Power BI` `Git`
 
 ---
 
@@ -65,9 +63,6 @@
 🔹 Deployed using **TensorFlow/Keras + Django full-stack web app**  
 🔹 Optimized for **real-time inference & user experience**
 
-**🛠 Tech Stack**  
-`Python` `TensorFlow` `Keras` `OpenCV` `Django` `HTML` `CSS` `JavaScript`
-
 ---
 
 ### 🎉 College Event Management System  
@@ -77,8 +72,6 @@
 🔹 Integrated **Socket.io** for real-time updates & notifications  
 🔹 Collaborated in a **5-member agile team** using Git/GitHub  
 
-**🛠 Tech Stack**  
-`MongoDB` `Express.js` `React.js` `Node.js` `Socket.io` `Git`
 
 ---
 
@@ -91,8 +84,6 @@
 🔹 Practical exposure to **EDA, preprocessing & ML pipelines**  
 🔹 Focus on **real-world business problem solving**
 
-**Tech Exposure**  
-`Python` `Statistics` `ML` `MySQL` `MongoDB` `Power BI` `Tableau`
 
 ---
 
@@ -102,8 +93,6 @@
 🔹 Cleaned and analyzed datasets with **1M+ records**  
 🔹 Improved forecasting accuracy by **22%** using predictive models  
 
-**Tech Exposure**  
-`Python` `Data Cleaning` `Data Handling` `Predictive Modeling`
 
 ---
 
@@ -113,8 +102,6 @@
 🔹 Built Salesforce apps using **Apex & Lightning Web Components**  
 🔹 Reduced manual work by **35%** through automation  
 
-**Tech Exposure**  
-`Salesforce` `Apex` `LWC` `Git` `GitHub`
 
 ---
 
