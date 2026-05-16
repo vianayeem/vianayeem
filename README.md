@@ -8,8 +8,7 @@
 
 <h3 align="center">
 🚀 Data Scientist & Machine Learning Engineer <br/>
-🤖 AI & ML Enthusiast | 🌐 Full-Stack Curious 
-</h3>
+🤖 AI & ML Enthusiast </h3>
 
 <p align="center">
   <em>"Turning raw data into real-world intelligence."</em>
