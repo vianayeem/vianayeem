@@ -211,7 +211,7 @@ Data In → Clean → Explore → Engineer → Train → Evaluate → Tune → D
 
 # 🚀 Featured Projects
 
-## 📊 Machine Learning Capstone Projects
+## 📊 Machine Learning Modeling Projects
 
 ### 🔹 Highlights
 - 4+ Capstone Projects
