@@ -99,7 +99,6 @@ I hold a **B.Tech in Computer Science Engineering (AI & ML)** with an **8.02 CGP
 
 - 🐍 Python
 - 🗄️ SQL
-- 🔢 Data Structures & Algorithms
 
 ---
 
@@ -215,8 +214,7 @@ Data In → Clean → Explore → Engineer → Train → Evaluate → Tune → D
 
 ### 🔹 Highlights
 - 4+ Capstone Projects
-- 1 Main Industry Project
-- FastAPI Deployment
+- 2 Main Industry Project
 - Real-world ML Pipelines
 
 ### 🔹 Technologies Used
@@ -228,61 +226,6 @@ Data In → Clean → Explore → Engineer → Train → Evaluate → Tune → D
 - Conducted EDA & preprocessing
 - Applied cross-validation
 - Deployed inference APIs
-
----
-
-# 🧘 Yoga Pose Detection Web Application
-
-## 🔹 Project Type
-Deep Learning + Computer Vision
-
-## 🔹 Achievements
-- 94%+ Validation Accuracy
-- 10+ Yoga Pose Categories
-- 3 CNN Architectures
-
-## 🔹 Models Used
-- VGG16
-- DenseNet
-- MobileNet
-
-## 🔹 Tech Stack
-`Python` `TensorFlow` `Django` `Deep Learning`
-
-## 🔹 Features
-- Real-time pose prediction
-- Image upload classification
-- Deep Learning inference system
-
----
-
-# 💼 Experience
-
-# 📈 Data Science Intern
-
-📍 Rubize AI — Hyderabad, India  
-🗓️ Nov 2025 – Present
-
-### Key Contributions
-- Built classification, regression & clustering models
-- Worked on 3+ real-world ML projects
-- Improved preprocessing efficiency by ~30%
-- Performed EDA using Pandas & NumPy
-- Collaborated using Git & GitHub
-
----
-
-# 📊 Data Science Intern
-
-📍 Cognifyz Technologies — Remote  
-🗓️ June 2024 – July 2024
-
-### Key Contributions
-- Processed 1M+ dataset records
-- Resolved 40,000+ null values
-- Standardized 12 categorical columns
-- Built forecasting ML models
-- Performed EDA & stakeholder reporting
 
 ---
 
@@ -309,42 +252,6 @@ Deep Learning + Computer Vision
 
 🏫 Sri Vivekananda High School  
 📊 CGPA: 9.3 / 10
-
----
-
-# 🏆 Certifications & Achievements
-
-## 📘 Data Science Course — DataMites Institute
-Comprehensive Data Science training covering:
-- ML
-- Statistics
-- Data Wrangling
-- Real-world Projects
-
----
-
-## 🐍 Google — IT Automation with Python
-Professional Certificate (2024)
-
----
-
-## 📊 IBM — Data Science Foundations
-Focused on:
-- Data Analysis
-- Visualization
-- ML Workflows
-
----
-
-# 🚀 Key Achievements
-
-- 🤖 Built 5+ ML Models
-- 🎯 Achieved 94%+ accuracy in Deep Learning project
-- 💡 Active problem solver on coding platforms
-- 🚀 Completed 4+ capstone projects
-- ⚡ Improved preprocessing speed by 30%
-- 🧹 Cleaned 40,000+ null records
-- 🎓 Maintained 8.02 CGPA in AI & ML
 
 ---
 
