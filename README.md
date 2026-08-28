@@ -87,7 +87,7 @@ I hold a **B.Tech in Computer Science Engineering (AI & ML)** with an **8.02 CGP
 
 | 🎓 CGPA | 💼 Internships | 🤖 ML Models | 🚀 Main Projects |
 |---|---|---|---|
-| 8.02 | 2+ | 5+ | 2 |
+| 8.02 | 2+ | 5+ | 3 |
 
 </p>
 
