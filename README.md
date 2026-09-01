@@ -42,31 +42,12 @@
 
 ---
 
-# 👨‍💻 About Me
 
 📍 Singarayakonda, Andhra Pradesh, India  
 📧 vianayeem@gmail.com  
 📱 +91 9381160221  
 🔗 github.com/vianayeem  
 
----
-
-I'm a **Data Scientist Intern** with hands-on experience building and optimizing supervised and unsupervised Machine Learning models using **Python and Scikit-learn**.
-
-Currently contributing to real-world ML projects at **Rubize AI, Hyderabad**, where I work across the complete ML workflow — from preprocessing and feature engineering to model evaluation and deployment.
-
-My expertise spans:
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Predictive Modeling
-- Cross Validation
-- Hyperparameter Tuning
-- API Deployment
-
-I hold a **B.Tech in Computer Science Engineering (AI & ML)** with an **8.02 CGPA** and I'm actively seeking opportunities in:
-- Data Science
-- Machine Learning
-- AI Engineering
 
 ---
 
