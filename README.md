@@ -6,10 +6,6 @@
 👋 Hi, I'm <span style="color:#00CED1">Shaik Abdul Nayeem</span>
 </h1>
 
-<h3 align="center">
-🚀 Data Scientist & Machine Learning Engineer <br/>
-🤖 AI & ML Enthusiast
-</h3>
 
 <p align="center">
   <em>
@@ -37,19 +33,12 @@
 
 ## 🚀 Professional Summary
 
-💡 Data Scientist Intern building and optimizing Machine Learning models using **Python & Scikit-learn**.
+<p align="center">
+  <em>
+    Entry-level professional with 1 year of internship experience and hands-on experience in Python, SQL, data analysis, and machine learning. Skilled in data cleaning, exploratory data analysis, feature engineering, model development, and evaluation using realworld datasets. Familiar with Pandas, NumPy, Scikit-learn, MySQL, Git, and GitHub, with a strong interest in applying analytical and problem-solving skills to real-world business problems.
 
-🎓 B.Tech in Computer Science Engineering (AI & ML) with **8.02 CGPA**
-
-📊 Passionate about transforming raw datasets into actionable business intelligence and scalable AI solutions.
-
-🔍 Interested in:
-- Machine Learning
-- Data Science
-- AI Applications
-- Deep Learning
-- Predictive Analytics
-- Real-world ML Deployment
+  </em>
+</p>
 
 ---
 
