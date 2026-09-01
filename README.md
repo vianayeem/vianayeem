@@ -67,7 +67,6 @@
 - Unsupervised Learning
 - Cross Validation
 - Hyperparameter Tuning
-- Dimensionality Reduction
 
 ---
 
@@ -95,7 +94,6 @@
 - Git
 - GitHub
 - VS Code
-- Power BI
 - Excel
 
 ---
