@@ -44,7 +44,7 @@
 
 # 👨‍💻 About Me
 
-📍 Hyderabad, India  
+📍 Singarayakonda, Andhra Pradesh, India  
 📧 vianayeem@gmail.com  
 📱 +91 9381160221  
 🔗 github.com/vianayeem  
